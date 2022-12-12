@@ -1,8 +1,2 @@
-body {
-    margin: 0;
-}
-
-.container {
-    display: flex;
-    justify-content: space-around;
-}
+let num = 1
+console.log(num)
